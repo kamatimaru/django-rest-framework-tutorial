@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+*.pyc
+db.sqlite3
+django-rest-framework-tutorial-env/
